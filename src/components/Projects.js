@@ -13,14 +13,14 @@ const Projects = () => {
               <Card style={{ width: '18rem', height: '350px', background: '#1b242f', color: 'white' }}>
                 <Card.Img
                   variant='top'
-                  src={require('../img/carrental.png').default}
+                  src={require('../img/breakingbad.PNG').default}
                   alt='project'
                 />
                 <Card.Body>
-                  <Card.Title>Rental Car Website</Card.Title>
+                  <Card.Title>Breaking Bad App</Card.Title>
                   <Button
                     variant='primary'
-                    href='https://santiagocaicedoa.github.io/carRental/'
+                    href='https://breakingbad-cast-app.netlify.app/'
                     alt='project'
                     target='_blank'
                   >
@@ -33,13 +33,13 @@ const Projects = () => {
               <Card style={{ width: '18rem', height: '350px', background: '#1b242f', color: 'white' }}>
                 <Card.Img
                   variant='top'
-                  src={require('../img/musicPlayer.png').default}
+                  src={require('../img/recipes.PNG').default}
                 />
                 <Card.Body>
-                  <Card.Title>Music Player App</Card.Title>
+                  <Card.Title>Recipes App</Card.Title>
                   <Button
                     variant='primary'
-                    href='https://santiagocaicedoa.github.io/musicPlayer/'
+                    href='https://recipes-website.netlify.app/'
                     alt='project'
                     target='_blank'
                   >
