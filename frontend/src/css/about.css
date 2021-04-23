@@ -1,0 +1,54 @@
+.bigContainer{
+    background: rgb(232, 231, 231);
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+.container{
+    text-align: center;
+}
+
+img{
+    border-radius: 5px;
+}
+
+hr{
+    width: 70px;
+    height: 2px !important;
+    border: 0px solid;
+    background-color: #1b242f;
+    margin-bottom: 100px !important;
+}
+.Info{
+    margin-bottom: 50px;
+}
+.fas{
+    font-size: 70px;
+    margin-bottom: 40px;
+}
+
+h3{
+    margin: 40px 0 !important;
+}
+
+.progress{
+    height: 30px  !important;
+    margin-bottom: 30px;
+    background: #e31b6d !important;
+}
+
+.progress-bar{
+    background-color: #04c2c9 !important;
+
+}
+
+  @media screen and (max-width: 986px) {
+    img, p{
+        margin-bottom: 50px !important;
+    }
+}
+
+
+
+
+

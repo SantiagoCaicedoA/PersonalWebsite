@@ -1,0 +1,42 @@
+.footerContainer{
+    background: #1b242f;
+    height: 200px;
+    text-align: center;
+    padding: 40px 0
+}
+
+.icons{
+    color: white;
+    margin-bottom: 50px;
+}
+
+.fab{
+    color:  #1b242f;
+    position: relative;
+    padding: 15px 2px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 20px;
+    background-color: rgb(131, 129, 129);
+    font-size: 1.3rem;
+    border-radius: 50%;
+    transition: .5s;
+ }
+    
+
+.fab:hover{
+color: white;
+transform: translateY(-10px);
+cursor: pointer;
+
+}
+
+span{
+    color: #8f9aa7;
+
+}
+
+#year{
+    color: #e31b6d;
+}

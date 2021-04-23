@@ -1,0 +1,39 @@
+.Navbar{
+    background: #1b242f;
+    border-bottom: 5px solid #04c2c9;
+    color: white ;
+    height: 80px;
+    padding-top: 10px;
+}
+
+.navbar-light .navbar-brand{
+    color: white !important; 
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white !important; 
+}
+.navbar-toggler{
+    background: #04c2c9 !important;
+}
+.Navbar span{
+    color: #e31b6d;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.navbar-toggler {
+    margin-right: 20px !important;
+}
+
+
+
+@media screen and (max-width: 977px){
+    .navbar-nav{
+        background: #1b242f !important;
+        margin-top: 32px;
+        width: 800px !important;
+        padding-left: 10px !important;
+    }
+}

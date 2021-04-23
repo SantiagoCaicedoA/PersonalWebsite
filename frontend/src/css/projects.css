@@ -1,0 +1,47 @@
+.containerProjects{
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+hr{
+    width: 70px;
+    height: 2px !important;
+    border: 0px solid;
+    background-color: #1b242f;
+    margin-bottom: 100px !important;
+}
+.containerProjects p{
+    text-align: left;
+    font-size: 110%;
+}
+
+
+.cards{
+    margin: auto;
+}
+
+.btn-primary{
+    background: #04c2c9 !important;
+    border-color: #04c2c9 !important;
+    margin-top: 20px !important;
+    font-weight: bold !important;
+}
+
+.btn-primary:hover{
+    color: #e31b6d !important;
+    font-size: 120% !important;
+
+}
+
+@media screen and (max-width: 986px) {
+    .cards{
+        margin-left: 30%;
+    }
+
+
+}
+@media screen and (max-width: 500px) {
+    .cards{
+        margin-left: 10%;
+    }
+}
