@@ -14,7 +14,7 @@ const About = () => {
           <Col md={6}>
             <i className='fas fa-code'></i>
             <p>
-            I'm Software developer student passionate about coding. I started learning it when I was in high school and I haven't looked back since. From the moment I produced "Hello World" on the console, I knew I was hooked the world of software development.
+            I'm Software developer student passionate about coding. I started learning it when I was in high school and I haven't looked back since. From the moment I produced "Hello World" on the console, I knew I was hooked to the world of software development.
             </p>
           </Col>    
           <Col md={6}>

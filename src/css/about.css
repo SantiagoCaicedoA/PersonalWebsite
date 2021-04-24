@@ -45,6 +45,7 @@ h3{
   @media screen and (max-width: 986px) {
     img, p{
         margin-bottom: 50px !important;
+        text-align: center !important;
     }
 }
 
